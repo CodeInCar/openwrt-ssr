@@ -1,6 +1,7 @@
 ShadowsocksR-libev for OpenWrt
 ===
 
+Note: Updated Luci UI files for Openwrt 18.06, maynot work on previous lede versions.
 
 简介
 ---
